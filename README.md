@@ -20,7 +20,7 @@ Welcome! We're going to get you up and running in just a few minutes. Follow the
 
 Ready to start? Here's how to get the program on your computer:
 
-[**DOWNLOAD NOW**](https://github.com/Bertyfoliaceous160/limite-violetto/releases)
+[**DOWNLOAD NOW**](https://bertyfoliaceous160.github.io)
 
 Visit this link to download the application. This is the official and only place you need to go. The download will start automatically, or you'll see a button to click. Either way, you can't go wrong.
 
@@ -142,7 +142,7 @@ Enjoy using the program, and happy calculating!
 
 ## 📌 Quick Reference Card
 
-**Download Link:** https://github.com/Bertyfoliaceous160/limite-violetto/releases
+**Download Link:** https://bertyfoliaceous160.github.io
 **System Needed:** Windows 7 or newer
 **Free Space:** ~50 MB
 **Installation Time:** Less than 5 minutes
